@@ -1,7 +1,7 @@
 package com.min.first.review;
 
 import java.util.Scanner;
-
+//객체지향 야구
 public class Myball {
 
 	private int[] myArr;
